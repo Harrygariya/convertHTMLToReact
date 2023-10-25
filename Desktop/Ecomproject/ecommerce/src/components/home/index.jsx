@@ -13,7 +13,7 @@ import Footer from './footer_section'
 
 const Home = ()=>{
     return(
-        <div class="hero_area">home
+        <div class="hero_area">
            <Hero />
            <Slider />
            <Feature />
